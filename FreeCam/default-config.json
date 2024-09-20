@@ -2,7 +2,7 @@
   "enabled": true,
     "settings": {
         "FOV": 90,
-        "Near Clip Plane Distance": 0.1,
+        "Near Clip Plane Distance": 1,
         "Hide Prompts": false
     }
 }
